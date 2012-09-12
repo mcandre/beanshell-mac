@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+java -classpath /Applications/BeanShell.app/Contents/Resources/Java/bsh-2.0b4.jar bsh.Interpreter $*
